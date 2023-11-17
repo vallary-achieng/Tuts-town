@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> tuts town</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header class="primary_header">
+            <h1 class="main_heading">Welcome To Tuts+ Town</h1>
+            <img class="town_preview" src="images/townheader.svg" alt="town header image">
+        </header>
+        <!-- The main content of the web page goes here -->
+        <main>
+            `<section class="store-section">
+                <img class="building" src="images/townsleep.svg">
+                <div class="store details">                           
+                    <h2>sleep</h2>
+                    <ul>
+                        <li>
+                            <a href="#">The snooze hotel</a>
+                        </li>
+                        <li>
+                            <a href="#">Zzz hotel </a>
+                        </li>
+                    </ul>
+                </div>
+            </section>
+            <section class="store-section">
+                <img class="building" src="images/townfood.svg">
+                <div class="store-details">  
+                    <h3>food</h3>
+                    <ul>
+                        <li>
+                            <a href="#">Just cookies</a>
+                        
+                        </li>
+
+                        <li>
+                            <a href="#">Cake too</a>
+                        </li>
+                    </ul>
+                </div>
+            </section>
+            <section class="store-section">
+                <img class="building" src="images/townshop.svg">
+                <div class="store details">  
+                    <h4>Shop</h4>
+                    <ul>
+                        <li>
+                            <a href="#">puppy parade</a>
+                        </li>
+                        <li>
+                            <a href="#">Cool kittens</a>
+                        </li>
+                    </ul>
+                </div>
+            </section>
+        </main>
+        <footer>
+            <p>Created with enthusiasm by<br>Vallary Achieng</p>
+        </footer>
+    </body>
+
+</html>
